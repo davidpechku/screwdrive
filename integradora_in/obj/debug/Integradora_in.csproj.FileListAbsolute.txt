@@ -1,0 +1,245 @@
+c:\users\computo\documents\visual studio 2012\Projects\Integradora_in\Integradora_in\bin\Debug\Integradora_in.exe.config
+c:\users\computo\documents\visual studio 2012\Projects\Integradora_in\Integradora_in\obj\Debug\Integradora_in.csprojResolveAssemblyReference.cache
+c:\users\computo\documents\visual studio 2012\Projects\Integradora_in\Integradora_in\obj\Debug\Integradora_in.Form1.resources
+c:\users\computo\documents\visual studio 2012\Projects\Integradora_in\Integradora_in\obj\Debug\Integradora_in.Properties.Resources.resources
+c:\users\computo\documents\visual studio 2012\Projects\Integradora_in\Integradora_in\obj\Debug\Integradora_in.csproj.GenerateResource.Cache
+c:\users\computo\documents\visual studio 2012\Projects\Integradora_in\Integradora_in\bin\Debug\Integradora_in.exe
+c:\users\computo\documents\visual studio 2012\Projects\Integradora_in\Integradora_in\bin\Debug\Integradora_in.pdb
+c:\users\computo\documents\visual studio 2012\Projects\Integradora_in\Integradora_in\obj\Debug\Integradora_in.exe
+c:\users\computo\documents\visual studio 2012\Projects\Integradora_in\Integradora_in\obj\Debug\Integradora_in.pdb
+c:\users\computo\documents\visual studio 2012\Projects\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmPrincipal.resources
+c:\users\computo\documents\visual studio 2012\Projects\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmVenta.resources
+C:\Users\computo\Documents\Visual Studio 2012\Projects\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmRegistro.resources
+C:\Users\salami\Desktop\Integradora_in\Integradora_in\bin\Debug\Integradora_in.exe.config
+C:\Users\salami\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.exe
+C:\Users\salami\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.pdb
+C:\Users\salami\Desktop\Integradora_in\Integradora_in\bin\Debug\Integradora_in.exe
+C:\Users\salami\Desktop\Integradora_in\Integradora_in\bin\Debug\Integradora_in.pdb
+C:\Users\salami\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.csprojResolveAssemblyReference.cache
+C:\Users\salami\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.Form1.resources
+C:\Users\salami\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmPrincipal.resources
+C:\Users\salami\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmRegistro.resources
+C:\Users\salami\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmVenta.resources
+C:\Users\salami\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.Properties.Resources.resources
+C:\Users\salami\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.csproj.GenerateResource.Cache
+C:\Users\salami\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmRepara.resources
+C:\Users\computo\Desktop\Integradora_in\Integradora_in\bin\Debug\Integradora_in.exe.config
+C:\Users\computo\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.exe
+C:\Users\computo\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.pdb
+C:\Users\computo\Desktop\Integradora_in\Integradora_in\bin\Debug\Integradora_in.exe
+C:\Users\computo\Desktop\Integradora_in\Integradora_in\bin\Debug\Integradora_in.pdb
+C:\Users\computo\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.csprojResolveAssemblyReference.cache
+C:\Users\computo\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.Form1.resources
+C:\Users\computo\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmPrincipal.resources
+C:\Users\computo\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmRegistro.resources
+C:\Users\computo\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmRepara.resources
+C:\Users\computo\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmVenta.resources
+C:\Users\computo\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.Properties.Resources.resources
+C:\Users\computo\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.csproj.GenerateResource.Cache
+C:\Users\computo\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmClientes.resources
+D:\----------------------\Integradora_in\Integradora_in\bin\Debug\Integradora_in.exe.config
+D:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.exe
+D:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.pdb
+D:\----------------------\Integradora_in\Integradora_in\bin\Debug\Integradora_in.exe
+D:\----------------------\Integradora_in\Integradora_in\bin\Debug\Integradora_in.pdb
+D:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.csprojResolveAssemblyReference.cache
+D:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmPrincipal.resources
+D:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmRegistro.resources
+D:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmRepara.resources
+D:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmVenta.resources
+D:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.Properties.Resources.resources
+D:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.csproj.GenerateResource.Cache
+G:\----------------------\Integradora_in\Integradora_in\bin\Debug\Integradora_in.exe.config
+G:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.exe
+G:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.pdb
+G:\----------------------\Integradora_in\Integradora_in\bin\Debug\Integradora_in.exe
+G:\----------------------\Integradora_in\Integradora_in\bin\Debug\Integradora_in.pdb
+G:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.csprojResolveAssemblyReference.cache
+G:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmPrincipal.resources
+G:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmRegistro.resources
+G:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmRepara.resources
+G:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmVenta.resources
+G:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.Properties.Resources.resources
+G:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.csproj.GenerateResource.Cache
+C:\Users\David Pech Ku\Desktop\Integradora_in\Integradora_in\bin\Debug\Integradora_in.exe.config
+C:\Users\David Pech Ku\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.exe
+C:\Users\David Pech Ku\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.pdb
+C:\Users\David Pech Ku\Desktop\Integradora_in\Integradora_in\bin\Debug\Integradora_in.exe
+C:\Users\David Pech Ku\Desktop\Integradora_in\Integradora_in\bin\Debug\Integradora_in.pdb
+C:\Users\David Pech Ku\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.csprojResolveAssemblyReference.cache
+C:\Users\David Pech Ku\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.Form1.resources
+C:\Users\David Pech Ku\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmClientes.resources
+C:\Users\David Pech Ku\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmPrincipal.resources
+C:\Users\David Pech Ku\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmRegistro.resources
+C:\Users\David Pech Ku\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmRepara.resources
+C:\Users\David Pech Ku\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmVenta.resources
+C:\Users\David Pech Ku\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.Properties.Resources.resources
+C:\Users\David Pech Ku\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.csproj.GenerateResource.Cache
+C:\Users\David Pech Ku\Desktop\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmCli.resources
+D:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmLogin.resources
+G:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmLogin.resources
+D:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmControlClientes.resources
+D:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmIngresar.resources
+G:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmControlClientes.resources
+G:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmIngresar.resources
+D:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmEquipos.resources
+G:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmEquipos.resources
+D:\----------------------\Integradora_in\Integradora_in\obj\Debug\Integradora_in.FrmAgregaMarca.resources
+C:\Users\computo\Desktop\PC\Integradora_in\bin\Debug\Integradora_in.exe.config
+C:\Users\computo\Desktop\PC\Integradora_in\obj\Debug\Integradora_in.exe
+C:\Users\computo\Desktop\PC\Integradora_in\obj\Debug\Integradora_in.pdb
+C:\Users\computo\Desktop\PC\Integradora_in\bin\Debug\Integradora_in.exe
+C:\Users\computo\Desktop\PC\Integradora_in\bin\Debug\Integradora_in.pdb
+C:\Users\computo\Desktop\PC\Integradora_in\obj\Debug\Integradora_in.csprojResolveAssemblyReference.cache
+C:\Users\computo\Desktop\PC\Integradora_in\obj\Debug\Integradora_in.FrmAgregaMarca.resources
+C:\Users\computo\Desktop\PC\Integradora_in\obj\Debug\Integradora_in.FrmControlClientes.resources
+C:\Users\computo\Desktop\PC\Integradora_in\obj\Debug\Integradora_in.FrmEquipos.resources
+C:\Users\computo\Desktop\PC\Integradora_in\obj\Debug\Integradora_in.FrmIngresar.resources
+C:\Users\computo\Desktop\PC\Integradora_in\obj\Debug\Integradora_in.FrmPrincipal.resources
+C:\Users\computo\Desktop\PC\Integradora_in\obj\Debug\Integradora_in.FrmRegistro.resources
+C:\Users\computo\Desktop\PC\Integradora_in\obj\Debug\Integradora_in.FrmRepara.resources
+C:\Users\computo\Desktop\PC\Integradora_in\obj\Debug\Integradora_in.Properties.Resources.resources
+C:\Users\computo\Desktop\PC\Integradora_in\obj\Debug\Integradora_in.csproj.GenerateResource.Cache
+C:\Users\computo\Desktop\PC\Integradora_in\obj\Debug\Integradora_in.FrmTecnicos.resources
+D:\PC\Integradora_in\bin\Debug\Integradora_in.exe.config
+D:\PC\Integradora_in\obj\Debug\Integradora_in.exe
+D:\PC\Integradora_in\obj\Debug\Integradora_in.pdb
+H:\PC\Integradora_in\bin\Debug\Integradora_in.exe.config
+H:\PC\Integradora_in\obj\Debug\Integradora_in.exe
+H:\PC\Integradora_in\obj\Debug\Integradora_in.pdb
+D:\PC\Integradora_in\bin\Debug\Integradora_in.exe
+D:\PC\Integradora_in\bin\Debug\Integradora_in.pdb
+D:\PC\Integradora_in\obj\Debug\Integradora_in.csprojResolveAssemblyReference.cache
+D:\PC\Integradora_in\obj\Debug\Integradora_in.FrmAgregaMarca.resources
+D:\PC\Integradora_in\obj\Debug\Integradora_in.FrmControlClientes.resources
+D:\PC\Integradora_in\obj\Debug\Integradora_in.FrmEquipos.resources
+D:\PC\Integradora_in\obj\Debug\Integradora_in.FrmIngresar.resources
+D:\PC\Integradora_in\obj\Debug\Integradora_in.FrmPrincipal.resources
+D:\PC\Integradora_in\obj\Debug\Integradora_in.FrmRegistro.resources
+D:\PC\Integradora_in\obj\Debug\Integradora_in.FrmTecnicos.resources
+D:\PC\Integradora_in\obj\Debug\Integradora_in.Properties.Resources.resources
+D:\PC\Integradora_in\obj\Debug\Integradora_in.csproj.GenerateResource.Cache
+D:\PC\Integradora_in\obj\Debug\Integradora_in.FrmRepara.resources
+H:\PC\Integradora_in\bin\Debug\Integradora_in.exe
+H:\PC\Integradora_in\bin\Debug\Integradora_in.pdb
+H:\PC\Integradora_in\obj\Debug\Integradora_in.csprojResolveAssemblyReference.cache
+H:\PC\Integradora_in\obj\Debug\Integradora_in.FrmAgregaMarca.resources
+H:\PC\Integradora_in\obj\Debug\Integradora_in.FrmControlClientes.resources
+H:\PC\Integradora_in\obj\Debug\Integradora_in.FrmEquipos.resources
+H:\PC\Integradora_in\obj\Debug\Integradora_in.FrmIngresar.resources
+H:\PC\Integradora_in\obj\Debug\Integradora_in.FrmPrincipal.resources
+H:\PC\Integradora_in\obj\Debug\Integradora_in.FrmRegistro.resources
+H:\PC\Integradora_in\obj\Debug\Integradora_in.FrmRepara.resources
+H:\PC\Integradora_in\obj\Debug\Integradora_in.FrmTecnicos.resources
+H:\PC\Integradora_in\obj\Debug\Integradora_in.Properties.Resources.resources
+H:\PC\Integradora_in\obj\Debug\Integradora_in.csproj.GenerateResource.Cache
+D:\PC\Integradora_in\obj\Debug\Integradora_in.FrmControl.resources
+C:\Users\salami\Documents\PC\Integradora_in\bin\Debug\Integradora_in.exe.config
+C:\Users\salami\Documents\PC\Integradora_in\obj\Debug\Integradora_in.exe
+C:\Users\salami\Documents\PC\Integradora_in\obj\Debug\Integradora_in.pdb
+C:\Users\salami\Documents\PC\Integradora_in\bin\Debug\Integradora_in.exe
+C:\Users\salami\Documents\PC\Integradora_in\bin\Debug\Integradora_in.pdb
+C:\Users\salami\Documents\PC\Integradora_in\obj\Debug\Integradora_in.csprojResolveAssemblyReference.cache
+C:\Users\salami\Documents\PC\Integradora_in\obj\Debug\Integradora_in.FrmAgregaMarca.resources
+C:\Users\salami\Documents\PC\Integradora_in\obj\Debug\Integradora_in.FrmControl.resources
+C:\Users\salami\Documents\PC\Integradora_in\obj\Debug\Integradora_in.FrmControlClientes.resources
+C:\Users\salami\Documents\PC\Integradora_in\obj\Debug\Integradora_in.FrmEquipos.resources
+C:\Users\salami\Documents\PC\Integradora_in\obj\Debug\Integradora_in.FrmIngresar.resources
+C:\Users\salami\Documents\PC\Integradora_in\obj\Debug\Integradora_in.FrmPrincipal.resources
+C:\Users\salami\Documents\PC\Integradora_in\obj\Debug\Integradora_in.FrmRegistro.resources
+C:\Users\salami\Documents\PC\Integradora_in\obj\Debug\Integradora_in.FrmRepara.resources
+C:\Users\salami\Documents\PC\Integradora_in\obj\Debug\Integradora_in.FrmTecnicos.resources
+C:\Users\salami\Documents\PC\Integradora_in\obj\Debug\Integradora_in.Properties.Resources.resources
+C:\Users\salami\Documents\PC\Integradora_in\obj\Debug\Integradora_in.csproj.GenerateResource.Cache
+E:\PC\Integradora_in\bin\Debug\Integradora_in.exe.config
+E:\PC\Integradora_in\obj\Debug\Integradora_in.exe
+E:\PC\Integradora_in\obj\Debug\Integradora_in.pdb
+E:\PC\Integradora_in\bin\Debug\Integradora_in.exe
+E:\PC\Integradora_in\bin\Debug\Integradora_in.pdb
+E:\PC\Integradora_in\obj\Debug\Integradora_in.csprojResolveAssemblyReference.cache
+E:\PC\Integradora_in\obj\Debug\Integradora_in.FrmAgregaMarca.resources
+E:\PC\Integradora_in\obj\Debug\Integradora_in.FrmControl.resources
+E:\PC\Integradora_in\obj\Debug\Integradora_in.FrmControlClientes.resources
+E:\PC\Integradora_in\obj\Debug\Integradora_in.FrmEquipos.resources
+E:\PC\Integradora_in\obj\Debug\Integradora_in.FrmIngresar.resources
+E:\PC\Integradora_in\obj\Debug\Integradora_in.FrmPrincipal.resources
+E:\PC\Integradora_in\obj\Debug\Integradora_in.FrmRegistro.resources
+E:\PC\Integradora_in\obj\Debug\Integradora_in.FrmRepara.resources
+E:\PC\Integradora_in\obj\Debug\Integradora_in.FrmTecnicos.resources
+E:\PC\Integradora_in\obj\Debug\Integradora_in.Properties.Resources.resources
+E:\PC\Integradora_in\obj\Debug\Integradora_in.csproj.GenerateResource.Cache
+E:\PC\Integradora_in\obj\Debug\Integradora_in.FrmDiagnostico.resources
+H:\PC\Integradora_in\obj\Debug\Integradora_in.FrmControl.resources
+H:\PC\Integradora_in\obj\Debug\Integradora_in.FrmDiagnostico.resources
+E:\PC\Integradora_in\obj\Debug\Integradora_in.FrmHerramientas.resources
+E:\PC\Integradora_in\obj\Debug\Integradora_in.FrmFinalizar.resources
+C:\Users\salami\Documents\1\PC\Integradora_in\bin\Debug\Integradora_in.exe.config
+C:\Users\salami\Documents\1\PC\Integradora_in\obj\Debug\Integradora_in.exe
+C:\Users\salami\Documents\1\PC\Integradora_in\obj\Debug\Integradora_in.pdb
+C:\Users\computo\Desktop\PC\Integradora_in\obj\Debug\Integradora_in.FrmControl.resources
+C:\Users\computo\Desktop\PC\Integradora_in\obj\Debug\Integradora_in.FrmDiagnostico.resources
+C:\Users\computo\Desktop\PC\Integradora_in\obj\Debug\Integradora_in.FrmFinalizar.resources
+C:\Users\computo\Desktop\PC\Integradora_in\obj\Debug\Integradora_in.FrmHerramientas.resources
+C:\Users\computo\Dropbox\Proyecto Reparacion de cel (Screwdriver)\PC\Integradora_in\bin\Debug\Integradora_in.exe.config
+C:\Users\computo\Dropbox\Proyecto Reparacion de cel (Screwdriver)\PC\Integradora_in\obj\Debug\Integradora_in.exe
+C:\Users\computo\Dropbox\Proyecto Reparacion de cel (Screwdriver)\PC\Integradora_in\obj\Debug\Integradora_in.pdb
+C:\Users\Jesus Tun\Desktop\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\bin\Debug\Integradora_in.exe.config
+C:\Users\Jesus Tun\Desktop\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.exe
+C:\Users\Jesus Tun\Desktop\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.pdb
+C:\Users\Jesus Tun\Desktop\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\bin\Debug\Integradora_in.exe
+C:\Users\Jesus Tun\Desktop\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\bin\Debug\Integradora_in.pdb
+C:\Users\Jesus Tun\Desktop\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.csprojResolveAssemblyReference.cache
+C:\Users\Jesus Tun\Desktop\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmAgregaMarca.resources
+C:\Users\Jesus Tun\Desktop\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmControl.resources
+C:\Users\Jesus Tun\Desktop\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmControlClientes.resources
+C:\Users\Jesus Tun\Desktop\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmDiagnostico.resources
+C:\Users\Jesus Tun\Desktop\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmEquipos.resources
+C:\Users\Jesus Tun\Desktop\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmFinalizar.resources
+C:\Users\Jesus Tun\Desktop\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmHerramientas.resources
+C:\Users\Jesus Tun\Desktop\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmIngresar.resources
+C:\Users\Jesus Tun\Desktop\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmPrincipal.resources
+C:\Users\Jesus Tun\Desktop\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmRegistro.resources
+C:\Users\Jesus Tun\Desktop\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmRepara.resources
+C:\Users\Jesus Tun\Desktop\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmTecnicos.resources
+C:\Users\Jesus Tun\Desktop\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.Properties.Resources.resources
+C:\Users\Jesus Tun\Desktop\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.csproj.GenerateResource.Cache
+D:\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\bin\Debug\Integradora_in.exe.config
+D:\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.exe
+D:\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.pdb
+D:\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\bin\Debug\Integradora_in.exe
+D:\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\bin\Debug\Integradora_in.pdb
+D:\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.csprojResolveAssemblyReference.cache
+D:\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmAgregaMarca.resources
+D:\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmControl.resources
+D:\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmControlClientes.resources
+D:\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmDiagnostico.resources
+D:\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmEquipos.resources
+D:\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmFinalizar.resources
+D:\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmHerramientas.resources
+D:\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmIngresar.resources
+D:\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmPrincipal.resources
+D:\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmRegistro.resources
+D:\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmRepara.resources
+D:\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmTecnicos.resources
+D:\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.Properties.Resources.resources
+D:\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.csproj.GenerateResource.Cache
+D:\APP\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\bin\Debug\Integradora_in.exe.config
+D:\APP\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.exe
+D:\APP\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.pdb
+D:\APP\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\bin\Debug\Integradora_in.exe
+D:\APP\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\bin\Debug\Integradora_in.pdb
+D:\APP\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.csprojResolveAssemblyReference.cache
+D:\APP\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmAgregaMarca.resources
+D:\APP\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmControl.resources
+D:\APP\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmControlClientes.resources
+D:\APP\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmDiagnostico.resources
+D:\APP\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmEquipos.resources
+D:\APP\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmFinalizar.resources
+D:\APP\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmHerramientas.resources
+D:\APP\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmIngresar.resources
+D:\APP\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmPrincipal.resources
+D:\APP\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmRegistro.resources
+D:\APP\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmRepara.resources
+D:\APP\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmTecnicos.resources
+D:\APP\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.Properties.Resources.resources
+D:\APP\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.csproj.GenerateResource.Cache
