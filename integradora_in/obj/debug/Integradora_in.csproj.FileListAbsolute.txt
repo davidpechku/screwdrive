@@ -243,3 +243,6 @@ D:\APP\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug
 D:\APP\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.FrmTecnicos.resources
 D:\APP\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.Properties.Resources.resources
 D:\APP\Proyecto Reparacion de cel (Screwdriver)\screwdr\Integradora_in\obj\Debug\Integradora_in.csproj.GenerateResource.Cache
+C:\Users\Jesus Tun\Desktop\Screwdrive\screwdrive\Integradora_in\bin\Debug\Integradora_in.exe.config
+C:\Users\Jesus Tun\Desktop\Screwdrive\screwdrive\Integradora_in\obj\Debug\Integradora_in.exe
+C:\Users\Jesus Tun\Desktop\Screwdrive\screwdrive\Integradora_in\obj\Debug\Integradora_in.pdb
